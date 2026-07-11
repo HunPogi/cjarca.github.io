@@ -191,22 +191,6 @@ section h2 {
 
 }
 
-
-
-/* Footer */
-
-footer {
-
-    background: #111;
-
-    color:white;
-
-    text-align:center;
-
-    padding:20px;
-
-}
-
 .about {
 
     max-width:1200px;
@@ -312,3 +296,18 @@ background:#22C55E;
 border-radius:50%;
 
 }
+
+/* Footer */
+
+footer {
+
+    background: #111;
+
+    color:white;
+
+    text-align:center;
+
+    padding:20px;
+
+}
+
