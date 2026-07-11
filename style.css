@@ -53,14 +53,6 @@ nav a:hover {
     color:white;
 }
 /* HERO */
-.hero {
-    min-height:90vh;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    text-align:center;
-    padding:40px;
-}
 .hero-text h1 {
     font-size:64px;
     letter-spacing:-2px;
